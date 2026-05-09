@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 Hello World, I'm Monish! 
-### 🎓 Engineering Student | 🚀 Aspiring Software Engineer | 🧠 ML Enthusiast
+### 🎓 Engineering Student @ BMSCE | 🚀 Aspiring Software Engineer | 🧠 Developer 
 
 ### 🛠️ The Tech Vault
 **Languages & Core**
