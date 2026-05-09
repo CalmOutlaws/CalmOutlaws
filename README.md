@@ -19,7 +19,7 @@
 
 ### 🎮 Beyond the Screen
 *   **Gaming:** Currently roaming the plains in **Red Dead Redemption 2**.
-*   **System Tuning:** Obsessed with CPU/GPU performance optimization.
+*   **Video Editing:** Trying out new features and skills to get more clients.
 
 ---
 
